@@ -1,0 +1,29 @@
+C:\Users\SMC_KR\source\repos\pr calculator\pr calculator\bin\Debug\pr calculator.exe.config
+C:\Users\SMC_KR\source\repos\pr calculator\pr calculator\bin\Debug\pr calculator.exe
+C:\Users\SMC_KR\source\repos\pr calculator\pr calculator\bin\Debug\pr calculator.pdb
+C:\Users\SMC_KR\source\repos\pr calculator\pr calculator\obj\Debug\pr_calculator.Properties.Resources.resources
+C:\Users\SMC_KR\source\repos\pr calculator\pr calculator\obj\Debug\pr calculator.csproj.GenerateResource.cache
+C:\Users\SMC_KR\source\repos\pr calculator\pr calculator\obj\Debug\pr calculator.csproj.CoreCompileInputs.cache
+C:\Users\SMC_KR\source\repos\pr calculator\pr calculator\obj\Debug\pr calculator.exe
+C:\Users\SMC_KR\source\repos\pr calculator\pr calculator\obj\Debug\pr calculator.pdb
+C:\Users\SMC_KR\source\repos\pr calculator\pr calculator\bin\Debug\PdfSharp.Charting.dll
+C:\Users\SMC_KR\source\repos\pr calculator\pr calculator\bin\Debug\PdfSharp.dll
+C:\Users\SMC_KR\source\repos\pr calculator\pr calculator\bin\Debug\PdfSharp.xml
+C:\Users\SMC_KR\source\repos\pr calculator\pr calculator\bin\Debug\PdfSharp.Charting.xml
+C:\Users\SMC_KR\source\repos\pr calculator\pr calculator\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\SMC_KR\source\repos\pr calculator\pr calculator\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\SMC_KR\source\repos\pr calculator\pr calculator\obj\Debug\pr calculator.csproj.CopyComplete
+C:\Users\SMC_KR\source\repos\pr calculator\pr calculator\obj\Debug\pr_calculator.PR.resources
+C:\Users\SMC_KR\source\repos\pr calculator\pr calculator\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\SMC_KR\source\repos\pr calculator\pr calculator\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\SMC_KR\source\repos\pr calculator\pr calculator\bin\Debug\MigraDoc.RtfRendering.dll
+C:\Users\SMC_KR\source\repos\pr calculator\pr calculator\bin\Debug\MigraDoc.DocumentObjectModel.xml
+C:\Users\SMC_KR\source\repos\pr calculator\pr calculator\bin\Debug\MigraDoc.Rendering.xml
+C:\Users\SMC_KR\source\repos\pr calculator\pr calculator\bin\Debug\MigraDoc.RtfRendering.xml
+C:\Users\SMC_KR\source\repos\pr calculator\pr calculator\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\SMC_KR\source\repos\pr calculator\pr calculator\bin\Debug\de\MigraDoc.Rendering.resources.dll
+C:\Users\SMC_KR\source\repos\pr calculator\pr calculator\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+C:\Users\SMC_KR\source\repos\pr calculator\pr calculator\bin\Debug\pr calculator.exe.manifest
+C:\Users\SMC_KR\source\repos\pr calculator\pr calculator\bin\Debug\pr calculator.application
+C:\Users\SMC_KR\source\repos\pr calculator\pr calculator\obj\Debug\pr calculator.exe.manifest
+C:\Users\SMC_KR\source\repos\pr calculator\pr calculator\obj\Debug\pr calculator.application
